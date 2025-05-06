@@ -1,0 +1,7 @@
+Planet Name: mars
+Diameter: 5555 km
+Mass: 11111 kg
+Has Rings: False
+Number of Moons: 1
+Type: d1
+Distance from Sun: 43 million km
