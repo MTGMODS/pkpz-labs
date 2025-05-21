@@ -25,5 +25,5 @@ def validate_password(password: str) -> bool:
     ]
     return all(rule(password) for rule in rules)
 
-print(validate_password("StrongPass1!"))
-print(validate_password("weakpass"))
+print('Input your password for checking...')
+print(validate_password(input()))

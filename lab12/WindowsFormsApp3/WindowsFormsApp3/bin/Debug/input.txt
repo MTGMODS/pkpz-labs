@@ -1,0 +1,4 @@
+The temperature is 25°C. Email me at test@example.com. 
+Visit https://example.com. The weight is 70 kg. 
+He paid $150. Call +1-202-555-0173. IP: 192.168.1.1 
+#AI The event is on June 1st, 2025 at 5:00 PM.
